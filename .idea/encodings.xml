@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/common.blocks/fa-example-group/index.bemjson.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common.blocks/form/form.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common.blocks/header/__side/_align/header__side_align_left.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/common.blocks/state/state.styl" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/desktop.bundles/index/production.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/gmap/gmap.js" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/js/navigation/navigation.js" charset="UTF-8" />
+  </component>
+</project>

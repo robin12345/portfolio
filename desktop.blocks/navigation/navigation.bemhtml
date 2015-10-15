@@ -1,0 +1,6 @@
+block('navigation')(
+    tag()('ul'),
+    elem('item')(
+        tag()('li')
+    )
+);
